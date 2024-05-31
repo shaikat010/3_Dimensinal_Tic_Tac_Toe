@@ -3,4 +3,4 @@ This is a game which is inspired from the popular tic tac toe along with additio
 
 # Gameplay explanation: 
 
-The game uses multiple tic tac toe boards for two players who can play from any of the boards when their turn is activated.
+The game uses multiple tic tac toe boards for two players who can play from any of the boards when their turn is activated..
